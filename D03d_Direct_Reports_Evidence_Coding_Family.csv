@@ -1,0 +1,31 @@
+﻿ID,PV,BV,DC,RG,BV attribution,BV attribution basis,Study family,Family ID,Programme family,Relation within family,Independent experiments in publication
+LIT-004,PV3,BV0,DC0,RG2,,No biological endpoint.,Watermelon visual-servo system,F01,Ahmad watermelon visual-servo,Sole publication,1
+LIT-038,PV3,BV3,DC1,RG1,A2,Robot executed treatment in orchard zones; fruit set attributed to robot.,Gao/Cao kiwifruit targeting robot,F02,Gao/Cao kiwifruit targeting-robot programme,Distinct experiment within programme,1
+LIT-048,PV3,BV3,DC1,RG1,A2,Drone applied vibration to 200 clusters autonomously.,Hiraguri tomato-drone programme,F03,Hiraguri tomato-drone programme,Sole publication,1
+LIT-061,PV3,BV0,DC1,RG1,,No biological endpoint.,Li/Cui lightweight kiwifruit-arm programme,F04,Li/Cui lightweight kiwifruit-arm programme,Sole publication,1
+LIT-072,PV3,BV1,DC0,RG0,A1,Pilot-flown; leaf-deposition proxy only.,Mazinani walnut aerial robot,F05,Mazinani walnut aerial robot,Sole publication,1
+LIT-097,PV3,BV4,DC1,RG1,A2,Integrated autonomous targeting and spraying produced fruit in the field trial.,Auckland/Waikato kiwifruit programme,F06,Auckland/Waikato kiwifruit programme,Distinct 2020 journal experiment; preceded the 2021 two-orchard experiment,1
+LIT-098,PV3,BV4,DC2,RG2,A2,Autonomous platform; bagged flowers; full denominators.,Auckland/Waikato kiwifruit programme,F06,Auckland/Waikato kiwifruit programme,Distinct 2019 two-orchard experiment following the 2020 Journal of Field Robotics study,1
+LIT-101,PV1,BV1,DC0,RG1,,Artificial pistils; paint proxy.,CASIA forsythia-arm programme,F07,CASIA forsythia-arm programme,Sole publication,1
+LIT-104,PV3,BV3,DC0,RG2,A1,"Robotic spray action, but platform driven manually between rows.",WSU apple programme,F08,WSU apple precision-pollination programme,Distinct experiment within programme,1
+LIT-105,PV3,BV4,DC2,RG2,A1,"Robotic spray action, but platform manually pulled.",WSU apple programme,F08,WSU apple precision-pollination programme,Distinct experiment within programme,1
+LIT-115,PV2,BV0,DC0,RG1,,No biological endpoint.,Jeong/Jawed controlled-environment system,F09,Jeong/Jawed controlled-environment system,Sole publication,1
+LIT-118,PV1,BV0,DC0,RG1,,No biological endpoint.,Singh tomato visual-servo system,F10,Singh tomato pollination programme,Distinct experiment within programme,1
+LIT-119,PV1,BV0,DC0,RG1,,Artificial plants.,WVU Bramble/Stickbug programme,F11,WVU BrambleBee/Stickbug programme,Distinct experiment within programme,1
+LIT-120,PV3,BV3,DC1,RG1,A1,Operator controlled the manipulator from images.,Masuda suspended tomato robot,F12,Masuda suspended tomato robot,Sole publication,1
+LIT-121,PV3,BV0,DC1,RG1,,No biological endpoint.,Air Pollenmatic tomato system,F10,Singh tomato pollination programme,Distinct experiment within programme,1
+LIT-125,PV1,BV0,DC0,RG1,,Artificial flowers.,WVU Bramble/Stickbug programme,F11,WVU BrambleBee/Stickbug programme,Distinct experiment within programme,1
+LIT-172,PV2,BV4,DC2,RG1,A1,Robot moved manually to each selected flower.,HarvestX strawberry programme,F13,HarvestX strawberry programme,Sole publication,1
+LIT-173,PV2,BV1,DC0,RG1,A0,"BV4-level fruit-mass result came from HUMAN use of the tool, not the robot. Robot arm reached BV1 only.",Kong/Kousik microscopic strawberry system,F14,Kong/Kousik microscopic strawberry system,Sole publication,1
+LIT-174,PV2,BV1,DC0,RG0,A1,Bimanipulator; qualitative stigma observation only.,CAR CSIC-UPM soft pollination tool,F15,CAR CSIC-UPM soft pollination tool,Sole publication,1
+LIT-175,PV3,BV0,DC0,RG0,,Yield measurement explicitly ongoing.,Sri Lanka IoT strawberry rover,F16,Sri Lanka IoT strawberry rover,Sole publication,1
+LIT-176,PV3,BV4,DC1,RG1,A1?,"Robot positioned in front of plants; SLAM proposed as future work. Biological 200-flower arms are disjoint from the 1,828-flower autonomous pipeline.",Li/Jin facility-tomato vibration robot,F17,Li/Jin facility-tomato vibration robot,Sole publication,1
+LIT-195,PV1,BV0,DC0,RG1,,Simulated plant.,Ni chili-arm path-planning system,F18,Ni chili-arm path-planning system,Sole publication,1
+LIT-196,PV1,BV0,DC0,RG1,,Artificial flowers; actuator triggers only.,YOLOv5s-Im apple-drone programme,F19,YOLOv5s-Im apple-drone programme,Sole publication,1
+LIT-200,PV3,BV4,DC1,RG2,A1?,Chassis autonomy during the agronomic trials is not clearly stated in the extracted text.,Hao/Cui precision-liquid kiwifruit programme,F20,Hao/Cui precision-liquid kiwifruit programme,Sole publication,2
+LIT-227,PV3,BV4,DC1,RG1,A2,Autonomous in-zone targeting and multinozzle spraying.,Gao/Cao kiwifruit targeting-robot programme,F02,Gao/Cao kiwifruit targeting-robot programme,Distinct experiment within programme,1
+LIT-236,PV3,BV3,DC1,RG0,A2,Autonomous flight and automatic pollen sprayer.,Miyoshi/Hiraguri/Shimizu pear-drone programme,F21,Miyoshi/Hiraguri/Shimizu Japanese-pear drone programme,Distinct experiment within programme,1
+LIT-238,PV3,BV4,DC2,RG2,A2,Autonomous visual servoing; requires genome-edited crop co-intervention.,GEAIR crop–robot co-design and hybrid-breeding programme,F22,GEAIR crop-robot co-design and hybrid-breeding programme,Sole publication,2
+LIT-221,PV3,BV3,DC2,RG1,A2,Autonomous RTK-GNSS OFFBOARD flight with automated electrostatic spraying.,Miyoshi/Hiraguri/Shimizu pear-drone programme; distinct April 2025 electrostatic trial,F21,Miyoshi/Hiraguri/Shimizu Japanese-pear drone programme,Distinct experiment within programme,1
+LIT-338,PV3,BV1,DC0,RG2,A1,"The pollination subsystem selected and fired, but platform mobility in the reported experiment used manual control.",Auckland/Waikato kiwifruit programme,F06,Auckland/Waikato kiwifruit programme,Primary report of the 2016 AMMP initial evaluation; companion to LIT-339,1
+LIT-339,PV3,BV1,DC0,RG2,A1,"The pollination subsystem selected and fired, but platform mobility in the reported experiment used manual control.",Auckland/Waikato kiwifruit programme,F06,Auckland/Waikato kiwifruit programme,Companion report of the same 2016 AMMP experiment as LIT-338; does not add an experiment,0

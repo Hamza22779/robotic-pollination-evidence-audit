@@ -1,0 +1,345 @@
+﻿Library ID,Primary stream,Evidence role,Screening depth,Classification confidence,Changed from earlier stream,Human confirmation,Review note
+LIT-001,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-002,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-003,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-004,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-005,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-006,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-007,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-008,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-009,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-010,Conceptual/prototype robotic pollination,perception/localisation,Reference-list harvested,High,Yes,No,
+LIT-011,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-012,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-013,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-014,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-015,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,
+LIT-016,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-017,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,No,No,
+LIT-018,Conceptual/prototype robotic pollination,platform/end effector,Reference-list harvested,High,Yes,No,
+LIT-019,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-020,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,No,No,
+LIT-021,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-022,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-023,Conceptual/prototype robotic pollination,perception/localisation,Reference-list harvested,High,Yes,No,
+LIT-024,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-025,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-026,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-027,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-028,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-029,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-030,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-031,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-032,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-033,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,
+LIT-034,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-035,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-036,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,
+LIT-037,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-038,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-039,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-040,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-041,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-042,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-043,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,No,No,
+LIT-044,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-045,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-046,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-047,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-048,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-049,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,High,No,No,
+LIT-050,Enabling robotic-pollination evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-051,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-052,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-053,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-054,Enabling robotic-pollination evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-055,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-056,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-057,Enabling robotic-pollination evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-058,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-059,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-060,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,
+LIT-061,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-062,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,High,No,No,
+LIT-063,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,High,No,No,
+LIT-064,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-065,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-066,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-067,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,Yes,No,
+LIT-068,Contextual/non-intervention evidence,perception/localisation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-069,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-070,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-071,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-072,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-073,Conceptual/prototype robotic pollination,planning/control,Reference-list harvested,High,Yes,No,
+LIT-074,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-075,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-076,Enabling robotic-pollination evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-077,Enabling robotic-pollination evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-078,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-079,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-080,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-081,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-082,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-083,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-084,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-085,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-086,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-087,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-088,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-089,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-090,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-091,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-092,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-093,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-094,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-095,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-096,Enabling robotic-pollination evidence,planning/control,Reference-list harvested,High,No,No,
+LIT-097,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-098,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-099,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-100,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-101,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-102,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,High,No,No,
+LIT-103,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-104,Direct empirical robotic pollination,direct robotic evidence,Abstract/metadata reviewed,High,Yes,No,
+LIT-105,Direct empirical robotic pollination,direct robotic evidence,Full text/HTML reviewed,High,Yes,No,
+LIT-106,Contextual/non-intervention evidence,biological/agronomic foundation,Full text/HTML reviewed,High,No,No,
+LIT-107,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-108,Contextual/non-intervention evidence,biological/agronomic foundation,Full text/HTML reviewed,High,No,No,
+LIT-109,Contextual/non-intervention evidence,perception/localisation,Abstract/metadata reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-110,Contextual/non-intervention evidence,biological/agronomic foundation,Abstract/metadata reviewed,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-111,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,No,No,
+LIT-112,Contextual/non-intervention evidence,biological/agronomic foundation,Reference-list harvested,High,No,No,
+LIT-113,Enabling robotic-pollination evidence,planning/control,Reference-list harvested,High,No,No,
+LIT-114,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed,High,No,No,
+LIT-115,Direct empirical robotic pollination,direct robotic evidence,Abstract/metadata reviewed,High,Yes,No,
+LIT-116,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-117,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-118,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-119,Direct empirical robotic pollination,direct robotic evidence,Abstract/metadata reviewed,High,Yes,No,
+LIT-120,Direct empirical robotic pollination,direct robotic evidence,Abstract/metadata reviewed,High,Yes,No,
+LIT-121,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-122,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,High,No,No,
+LIT-123,Enabling robotic-pollination evidence,platform/end effector,Abstract/metadata reviewed,High,No,No,
+LIT-124,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed,High,No,No,
+LIT-125,Direct empirical robotic pollination,direct robotic evidence,Reference-list harvested,High,Yes,No,
+LIT-126,Enabling robotic-pollination evidence,perception/localisation,Reference-list harvested,High,No,No,
+LIT-127,Contextual/non-intervention evidence,ecology/governance/economics,Reference-list harvested,High,No,No,
+LIT-128,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-129,Mechanized artificial pollination,mechanized comparator,Reference-list harvested,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-130,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-131,Contextual/non-intervention evidence,review/synthesis,Reference-list harvested,High,No,No,
+LIT-132,Enabling robotic-pollination evidence,platform/end effector,Reference-list harvested,High,No,No,
+LIT-133,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-134,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-135,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-136,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-137,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-138,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-139,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-140,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-141,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-142,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-143,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-144,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-145,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-146,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-147,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-148,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-149,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-150,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-151,Contextual/non-intervention evidence,causal inference/methodology,Reference-list harvested,High,No,No,
+LIT-152,Contextual/non-intervention evidence,planning/control,Reference-list harvested,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-153,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-154,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-155,Contextual/non-intervention evidence,planning/control,Full text/HTML reviewed,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-156,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-157,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-158,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-159,Contextual/non-intervention evidence,causal inference/methodology,Full text/HTML reviewed,High,No,No,
+LIT-160,Contextual/non-intervention evidence,biological/agronomic foundation,Full text/HTML reviewed,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-161,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-162,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-163,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-164,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-165,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-166,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-167,Contextual/non-intervention evidence,causal inference/methodology,Abstract/metadata reviewed,High,No,No,
+LIT-168,Contextual/non-intervention evidence,planning/control,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-169,Contextual/non-intervention evidence,planning/control,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-170,Contextual/non-intervention evidence,planning/control,Reference-list harvested,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-171,Contextual/non-intervention evidence,planning/control,Abstract/metadata reviewed,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-172,Direct empirical robotic pollination,direct robotic evidence,Full text/HTML reviewed,High,Yes,No,
+LIT-173,Direct empirical robotic pollination,direct robotic evidence,Full text/HTML reviewed,High,Yes,No,
+LIT-174,Direct empirical robotic pollination,direct robotic evidence,Full text/PDF reviewed,High,Yes,No,
+LIT-175,Direct empirical robotic pollination,direct robotic evidence,Full text/HTML reviewed,High,Yes,No,
+LIT-176,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-177,Conceptual/prototype robotic pollination,platform/end effector,Abstract/metadata reviewed,High,Yes,No,
+LIT-178,Conceptual/prototype robotic pollination,planning/control,Full text reviewed,High,Yes,No,
+LIT-179,Conceptual/prototype robotic pollination,platform/end effector,Full text/HTML reviewed,High,Yes,No,
+LIT-180,Conceptual/prototype robotic pollination,platform/end effector,Full text/PDF reviewed,High,Yes,No,
+LIT-181,Conceptual/prototype robotic pollination,platform/end effector,Abstract/metadata reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-182,Conceptual/prototype robotic pollination,platform/end effector,Metadata reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-183,Conceptual/prototype robotic pollination,platform/end effector,Metadata reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-184,Conceptual/prototype robotic pollination,platform/end effector,Metadata reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-185,Conceptual/prototype robotic pollination,biological/agronomic foundation,Metadata reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-186,Contextual/non-intervention evidence,review/synthesis,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-187,Contextual/non-intervention evidence,ecology/governance/economics,Abstract/metadata reviewed from ScienceDirect export,High,No,No,
+LIT-188,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-189,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-190,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-191,Conceptual/prototype robotic pollination,planning/control,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,
+LIT-192,Contextual/non-intervention evidence,planning/control,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-193,Conceptual/prototype robotic pollination,planning/control,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,
+LIT-194,Contextual/non-intervention evidence,review/synthesis,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-195,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-196,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-198,Contextual/non-intervention evidence,planning/control,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-199,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-200,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-201,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-202,Enabling robotic-pollination evidence,platform/end effector,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-203,Contextual/non-intervention evidence,ecology/governance/economics,Abstract/metadata reviewed from ScienceDirect export,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-204,Enabling robotic-pollination evidence,perception/localisation,Abstract/metadata reviewed from ScienceDirect export,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-206,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-207,Mechanized artificial pollination,mechanized comparator,Full text reviewed,High,No,No,
+LIT-208,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-209,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-210,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-211,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-212,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-213,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-214,Enabling robotic-pollination evidence,planning/control,Title and abstract reviewed,High,No,No,
+LIT-215,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-216,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-217,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-218,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-219,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-220,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-221,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-222,Enabling robotic-pollination evidence,planning/control,Title and abstract reviewed,High,No,No,
+LIT-223,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-224,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-225,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-226,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-227,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-228,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-229,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-230,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-231,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-232,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-233,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-234,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-235,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-236,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-237,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-238,Direct empirical robotic pollination,direct robotic evidence,Full text reviewed,High,Yes,No,
+LIT-239,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-240,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-241,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-242,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-243,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-244,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-245,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-246,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-247,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-248,Enabling robotic-pollination evidence,biological/agronomic foundation,Title and abstract reviewed,High,Yes,No,
+LIT-249,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-250,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-251,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-252,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-253,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-254,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-255,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-256,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-257,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-258,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-259,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-260,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-261,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-262,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-263,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-264,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-265,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-266,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-267,Contextual/non-intervention evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-268,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-269,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-270,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-271,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-272,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-273,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,Yes,No,
+LIT-274,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-275,Enabling robotic-pollination evidence,planning/control,Title and abstract reviewed,High,No,No,
+LIT-276,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-277,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-278,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-279,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-280,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-281,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-282,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-283,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-284,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-285,Contextual/non-intervention evidence,planning/control,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-286,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-287,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-288,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-289,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,No,No,
+LIT-290,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-291,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-292,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-293,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,Yes,No,
+LIT-294,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-295,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-296,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-297,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-298,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-299,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-300,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-301,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-302,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-303,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-304,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-305,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-306,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,No,No,
+LIT-307,Mechanized artificial pollination,mechanized comparator,Full text visually reviewed,High,No,No,
+LIT-308,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-309,Enabling robotic-pollination evidence,perception/localisation,Title and abstract reviewed,High,No,No,
+LIT-310,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-311,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-312,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-313,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,Medium,Yes,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-314,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-315,Enabling robotic-pollination evidence,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-316,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-317,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-318,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-319,Contextual/non-intervention evidence,planning/control,Title and abstract reviewed,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-320,Contextual/non-intervention evidence,perception/localisation,Title and abstract reviewed,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-321,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-322,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-323,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-324,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-325,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-326,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-327,Conceptual/prototype robotic pollination,platform/end effector,Full text reviewed,High,Yes,No,
+LIT-328,Conceptual/prototype robotic pollination,platform/end effector,Title and abstract reviewed,High,Yes,No,
+LIT-329,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-330,Mechanized artificial pollination,mechanized comparator,Title and abstract reviewed,High,No,No,
+LIT-331,Conceptual/prototype robotic pollination,planning/control,Title and abstract reviewed,High,Yes,No,
+LIT-332,Contextual/non-intervention evidence,planning/control,Title and abstract reviewed; rescued during refined-query validation,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-333,Contextual/non-intervention evidence,planning/control,Title and abstract reviewed; rescued during refined-query validation,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-334,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed; rescued during refined-query validation,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-335,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed; rescued during refined-query validation,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-336,Contextual/non-intervention evidence,review/synthesis,Title and abstract reviewed; rescued during refined-query validation,High,No,No,
+LIT-337,Contextual/non-intervention evidence,ecology/governance/economics,Title and abstract reviewed; rescued during refined-query validation,High,Yes,No,Primary stream assigned from the final eligibility and intervention-role criteria.
+LIT-338,Direct empirical robotic pollination,direct robotic evidence,Full text,High,Yes,No,
+LIT-339,Direct empirical robotic pollination,direct robotic evidence,Full text,High,Yes,No,
+LIT-340,Mechanized artificial pollination,mechanized comparator,Abstract/metadata,High,No,No,
+LIT-341,Contextual/non-intervention evidence,planning/control,Abstract/metadata,Medium,No,Yes,Classification is complete but should be confirmed during human editorial review because the available record is title/annotation based.
+LIT-342,Contextual/non-intervention evidence,perception/localisation,Abstract/metadata,High,No,No,
+LIT-343,Contextual/non-intervention evidence,review/synthesis,Reference-level,High,No,No,
+LIT-344,Contextual/non-intervention evidence,review/synthesis,Abstract/metadata,High,Yes,No,
+LIT-345,Mechanized artificial pollination,mechanized comparator,Abstract/metadata,High,No,No,
+LIT-346,Mechanized artificial pollination,mechanized comparator,Full text,High,No,No,

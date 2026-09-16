@@ -1,0 +1,3 @@
+﻿Seed,Status,Access correction,Screened,Outcome
+LIT-038,CLOSED,The exact 2023 Gao record is present in the raw 604-record Scopus CSV despite Claude's statement that it was absent.,11 references screened from the populated References field.,No new direct empirical robotic-pollination study. Williams 2020/2021 and Li enabling papers were already represented.
+LIT-172,CLOSED,The open publisher HTML supplies the complete reference list.,"Robotic/engineered references included Barnett 2017, Shi 2019 UAV tomato, a nano-drone concept, ultrasonic strawberry pollination and HarvestX product context.","Barnett was already added; the remaining records were already known, mechanized artificial-pollination, conceptual/prototype, product-context or non-independent."

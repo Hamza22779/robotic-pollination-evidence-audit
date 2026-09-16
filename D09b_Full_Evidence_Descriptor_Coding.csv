@@ -1,0 +1,32 @@
+﻿Experiment ID,Publication ID,Family ID,Programme family,Publication-level PV,Publication-level BV,Publication-level DC,Publication-level RG,BV attribution,Biological endpoint present,Counting justification
+EXP-LIT-004,LIT-004,F01,Ahmad watermelon visual-servo,PV3,BV0,DC0,RG2,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-038,LIT-038,F02,Gao/Cao kiwifruit targeting-robot programme,PV3,BV3,DC1,RG1,A2,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-048,LIT-048,F03,Hiraguri tomato-drone programme,PV3,BV3,DC1,RG1,A2,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-061,LIT-061,F04,Li/Cui lightweight kiwifruit-arm programme,PV3,BV0,DC1,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-072,LIT-072,F05,Mazinani walnut aerial robot,PV3,BV1,DC0,RG0,A1,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-097-2020,LIT-097,F06,Auckland/Waikato kiwifruit programme,PV3,BV4,DC1,RG1,A2,Yes,Distinct experiment reported in the 2020 Journal of Field Robotics article.
+EXP-LIT-098-2019,LIT-098,F06,Auckland/Waikato kiwifruit programme,PV3,BV4,DC2,RG2,A2,Yes,"The 2021 Field Robotics paper explicitly reports a new, more controlled real-world evaluation."
+EXP-LIT-101,LIT-101,F07,CASIA forsythia-arm programme,PV1,BV1,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-104,LIT-104,F08,WSU apple precision-pollination programme,PV3,BV3,DC0,RG2,A1,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-105,LIT-105,F08,WSU apple precision-pollination programme,PV3,BV4,DC2,RG2,A1,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-115,LIT-115,F09,Jeong/Jawed controlled-environment system,PV2,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-118,LIT-118,F10,Singh tomato pollination programme,PV1,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-119,LIT-119,F11,WVU BrambleBee/Stickbug programme,PV1,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-120,LIT-120,F12,Masuda suspended tomato robot,PV3,BV3,DC1,RG1,A1,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-121,LIT-121,F10,Singh tomato pollination programme,PV3,BV0,DC1,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-125,LIT-125,F11,WVU BrambleBee/Stickbug programme,PV1,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-172,LIT-172,F13,HarvestX strawberry programme,PV2,BV4,DC2,RG1,A1,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-173,LIT-173,F14,Kong/Kousik microscopic strawberry system,PV2,BV1,DC0,RG1,A0,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-174,LIT-174,F15,CAR CSIC-UPM soft pollination tool,PV2,BV1,DC0,RG0,A1,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-175,LIT-175,F16,Sri Lanka IoT strawberry rover,PV3,BV0,DC0,RG0,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-176,LIT-176,F17,Li/Jin facility-tomato vibration robot,PV3,BV4,DC1,RG1,A1?,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-195,LIT-195,F18,Ni chili-arm path-planning system,PV1,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-196,LIT-196,F19,YOLOv5s-Im apple-drone programme,PV1,BV0,DC0,RG1,,No,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-200-2024,LIT-200,F20,Hao/Cui precision-liquid kiwifruit programme,PV3,BV4,DC1,RG2,A1?,Yes,"Distinct season, design and denominator: 10 zones × 30 flowers."
+EXP-LIT-200-2025,LIT-200,F20,Hao/Cui precision-liquid kiwifruit programme,PV3,BV4,DC1,RG2,A1?,Yes,"Distinct season, design and denominator: 10 zones × 50 flowers, wind compensation ON/OFF."
+EXP-LIT-227,LIT-227,F02,Gao/Cao kiwifruit targeting-robot programme,PV3,BV4,DC1,RG1,A2,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-236,LIT-236,F21,Miyoshi/Hiraguri/Shimizu Japanese-pear drone programme,PV3,BV3,DC1,RG0,A2,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-LIT-238-CONTROLLED,LIT-238,F22,GEAIR crop-robot co-design and hybrid-breeding programme,PV3,BV4,DC2,RG2,A2,Yes,Separate 320-contact-trial setting with its own robot/manual fruit-set groups.
+EXP-LIT-238-COMMERCIAL,LIT-238,F22,GEAIR crop-robot co-design and hybrid-breeding programme,PV3,BV4,DC2,RG2,A2,Yes,"Separate 960-servo-trial, 780-plant commercial setting and F1 demonstration."
+EXP-LIT-221,LIT-221,F21,Miyoshi/Hiraguri/Shimizu Japanese-pear drone programme,PV3,BV3,DC2,RG1,A2,Yes,No defensible split into multiple independent experiments from the audited evidence.
+EXP-F06-AMMP-2016,LIT-338; LIT-339,F06,Auckland/Waikato kiwifruit programme,PV3,BV1,DC0,RG2,A1,No,Barnett and Duke are two reports of one shared initial evaluation.

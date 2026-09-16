@@ -1,0 +1,31 @@
+﻿ID,BV,BV attribution,BV attribution basis
+LIT-004,BV0,,No biological endpoint.
+LIT-038,BV3,A2,Robot executed treatment in orchard zones; fruit set attributed to robot.
+LIT-048,BV3,A2,Drone applied vibration to 200 clusters autonomously.
+LIT-061,BV0,,No biological endpoint.
+LIT-072,BV1,A1,Pilot-flown; leaf-deposition proxy only.
+LIT-097,BV4,A2,Integrated autonomous targeting and spraying produced fruit in the field trial.
+LIT-098,BV4,A2,Autonomous platform; bagged flowers; full denominators.
+LIT-101,BV1,,Artificial pistils; paint proxy.
+LIT-104,BV3,A1,"Robotic spray action, but platform driven manually between rows."
+LIT-105,BV4,A1,"Robotic spray action, but platform manually pulled."
+LIT-115,BV0,,No biological endpoint.
+LIT-118,BV0,,No biological endpoint.
+LIT-119,BV0,,Artificial plants.
+LIT-120,BV3,A1,Operator controlled the manipulator from images.
+LIT-121,BV0,,No biological endpoint.
+LIT-125,BV0,,Artificial flowers.
+LIT-172,BV4,A1,Robot moved manually to each selected flower.
+LIT-173,BV1,A0,"BV4-level fruit-mass result came from HUMAN use of the tool, not the robot. Robot arm reached BV1 only."
+LIT-174,BV1,A1,Bimanipulator; qualitative stigma observation only.
+LIT-175,BV0,,Yield measurement explicitly ongoing.
+LIT-176,BV4,A1?,"Robot positioned in front of plants; SLAM proposed as future work. Biological 200-flower arms are disjoint from the 1,828-flower autonomous pipeline."
+LIT-195,BV0,,Simulated plant.
+LIT-196,BV0,,Artificial flowers; actuator triggers only.
+LIT-200,BV4,A1?,Chassis autonomy during the agronomic trials is not clearly stated in the extracted text.
+LIT-227,BV4,A2,Autonomous in-zone targeting and multinozzle spraying.
+LIT-236,BV3,A2,Autonomous flight and automatic pollen sprayer.
+LIT-238,BV4,A2,Autonomous visual servoing; requires genome-edited crop co-intervention.
+LIT-221,BV3,A2,Autonomous RTK-GNSS OFFBOARD flight with automated electrostatic spraying.
+LIT-338,BV1,A1,"The pollination subsystem selected and fired, but platform mobility in the reported experiment used manual control."
+LIT-339,BV1,A1,"The pollination subsystem selected and fired, but platform mobility in the reported experiment used manual control."

@@ -1,0 +1,10 @@
+﻿Domain,Status,Evidence basis
+Receipt,NOT ASSESSABLE,Publisher/preview material confirms robotic targeting/pollination and fruit outcomes but is insufficient to prove absence of target-linked stigma-load measurement in the complete article.
+Germination,NOT ASSESSABLE,"No positive germination evidence appears in accessible material, but the source depth is insufficient for a reliable negative determination."
+Pollen-tube progression,NOT ASSESSABLE,"No positive pollen-tube evidence appears in accessible material, but full primary-source methods/results were not available for negative adjudication."
+Randomised biological treatment assignment,NOT ASSESSABLE,Accessible material does not establish a design-based randomised biological allocation; absence cannot be source-confirmed from the preview alone.
+Prospective stochastic assignment probability,NOT ASSESSABLE,Accessible material does not expose a complete assignment-policy record or probability log.
+Complete deterministic policy provenance,NOT ASSESSABLE,"CNN targeting and autonomous system identity are visible, but trial-bound model/version/threshold/score/action provenance cannot be fully assessed."
+Engineering-feasibility mask,NOT ASSESSABLE,"The system targets individual flowers, but a compliant target-level engineering-feasibility mask cannot be assessed from available preview/excerpts."
+Explicit interference modelling,NOT ASSESSABLE,Available material does not provide enough methodological detail to source-confirm absence of interference analysis.
+Autonomy attribution,YES,The article identity/abstract and system description support an autonomous targeting-and-spraying platform producing biological outcomes; A2 attribution remains supportable at this level.

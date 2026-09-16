@@ -1,0 +1,51 @@
+﻿Cohort row ID,Record ID,Study/cohort,Available/total,Detected,Positioned/eligible,Attempted/operated,Verified outcome,Rate,Unit,Verification tier,Interpretation / data-quality note
+DEN-001,LIT-101,Artificial forsythia total,297,286,,286,256,86.19%,Artificial flower,BV1,256 pistil contacts; 30 petal/flower contacts; 11 misses; red paint used instead of pollen.
+DEN-002,LIT-061,Kiwifruit Zone 1,21,92% reported,,,86% reported,86%,Flower,BV0,Integer detected and successful counts are not reported.
+DEN-003,LIT-061,Kiwifruit Zone 2,23,93% reported,,,87% reported,87%,Flower,BV0,Integer detected and successful counts are not reported.
+DEN-004,LIT-061,Kiwifruit Zone 3,20,91% reported,,,82% reported,82%,Flower,BV0,82% is not integer-compatible with n=20.
+DEN-005,LIT-176,Integrated tomato operational pipeline,1828,1636,1486,1405,,"1,405/1,828 = 76.86%; source separately reports POL 73.58%",Flower target,BV0 operational,"The 73.58% POL is a separately defined composite and is not reconstructable from the stated N1→N4 cascade; the paper also says 100 runs, which differs from the 1,828 manually counted targets in Table 4."
+DEN-006,LIT-176,Artificial pollination comparator,200,,,200,195,97.5%,Flower,BV4,Fruit counted 40 days after treatment.
+DEN-007,LIT-176,Drone pollination comparator,200,,,200,196,98.0%,Flower,BV4,Treatment construction and assignment not described.
+DEN-008,LIT-176,Mechanical robot treatment,200,,,200,198,99.0%,Flower,BV4,Mean mass 298.1 g; no deformed or empty fruit reported.
+DEN-009,LIT-195,PSBI-RRT simulation trials,60,,,60,57,95.0%,Path-planning trial,BV0,Three failures; endpoint is collision-free path success on a simulated chili tree.
+DEN-010,LIT-196,YOLOv5s-Im flight 1,,,,40,,,Actuator trigger,BV0,No available-target or contact-verification denominator.
+DEN-011,LIT-196,YOLOv5s-Im flight 2,,,,38,,,Actuator trigger,BV0,Artificial flowers; manually flown/stationary test.
+DEN-012,LIT-196,YOLOv5s-Im flight 3,,,,43,,,Actuator trigger,BV0,
+DEN-013,LIT-196,YOLOv5s-Im flight 4,,,,45,,,Actuator trigger,BV0,
+DEN-014,LIT-196,YOLOv5s-Im flight 5,,,,42,,,Actuator trigger,BV0,Five-flight total = 208 attempts.
+DEN-015,LIT-200,2024 Zone A,30,,,30,23,76.7%,Flower,BV4,"Ultrasonic nozzle, one application"
+DEN-016,LIT-200,2024 Zone B,30,,,30,20,66.7%,Flower,BV4,"External-mix nozzle, one application"
+DEN-017,LIT-200,2024 Zone C,30,,,30,17,56.7%,Flower,BV4,"Siphon nozzle, one application"
+DEN-018,LIT-200,2024 Zone D,30,,,30,26,86.7%,Flower,BV4,"Internal-mix nozzle, two applications"
+DEN-019,LIT-200,2024 Zone E,30,,,30,23,76.7%,Flower,BV4,"Internal-mix nozzle, one application"
+DEN-020,LIT-200,2024 Zone F,30,,,30,25,83.3%,Flower,BV4,"Internal-mix nozzle, one application"
+DEN-021,LIT-200,2024 Zone G,30,,,30,25,83.3%,Flower,BV4,"Internal-mix nozzle, two applications"
+DEN-022,LIT-200,2024 Zone H,30,,,30,23,76.7%,Flower,BV4,"Internal-mix nozzle, one application"
+DEN-023,LIT-200,2024 Zone I,30,,,30,28,93.3%,Flower,BV4,"Manual dry pollen, two applications"
+DEN-024,LIT-200,2024 Zone J,30,,,30,29,96.7%,Flower,BV4,"Manual dry pollen, two applications"
+DEN-025,LIT-200,2025 Zone A,50,,,50,46/50,92.0%,Flower,BV3,Wind compensation ON
+DEN-026,LIT-200,2025 Zone B,50,,,50,44/50,88.0%,Flower,BV3,Wind compensation OFF
+DEN-027,LIT-200,2025 Zone C,50,,,50,45/50,90.0%,Flower,BV3,Wind compensation ON
+DEN-028,LIT-200,2025 Zone D,50,,,50,42/50,84.0%,Flower,BV3,Wind compensation OFF
+DEN-029,LIT-200,2025 Zone E,50,,,50,46/50,92.0%,Flower,BV3,Wind compensation ON
+DEN-030,LIT-200,2025 Zone F,50,,,50,41/50,82.0%,Flower,BV3,Wind compensation OFF
+DEN-031,LIT-200,2025 Zone G,50,,,50,47/50,94.0%,Flower,BV3,Wind compensation ON
+DEN-032,LIT-200,2025 Zone H,50,,,50,55/50 reported,88.0%,Flower,BV3,"Wind compensation OFF; impossible numerator, do not correct silently"
+DEN-033,LIT-200,2025 Zone I,50,,,50,42/50,84.0%,Flower,BV3,Wind compensation OFF
+DEN-034,LIT-200,2025 Zone J,50,,,50,48/50,96.0%,Flower,BV3,Wind compensation ON
+DEN-035,LIT-227,Multinozzle robot — five orchard zones,912 selected/pollinated flowers total,98.9% average,Vision-selected preferential flowers,912 reported as pollinated,93.4% targeting; 88.9% fruit set,Targeting 93.4%; fruit set 88.9%,Flower; zone-average,BV4,Raw zone numerators and comparator denominators not reported; fruit quality assessed at four months.
+DEN-036,LIT-227,Hand-pollination comparator,NR,,,NR,Fruit set 90.6%,90.6%,Flower,BV4,Distinct orchard zone; raw denominator and assignment mechanism NR.
+DEN-037,LIT-227,Electric-sprayer comparator,NR,,,NR,Fruit set 77.8%,77.8%,Flower,BV4,Distinct orchard zone; raw denominator and assignment mechanism NR.
+DEN-038,LIT-236,Autonomous pear drone — 1 m row summary,6.8 flowers/inflorescence average,AI detection used; denominator NR,Autonomous flight points,One 4-s spray per lateral branch,5.2 fruits/inflorescence average,77.4%,Inflorescence; per-1-m row summary,BV3,"Number of inflorescences, raw counts and variance not reported."
+DEN-039,LIT-236,Puff-brush comparator,7.0 flowers/inflorescence average,,,Manual,5.5 fruits/inflorescence average,78.9%,Inflorescence,BV3,Separate field area; n and raw counts NR.
+DEN-040,LIT-236,Manual solution comparator,6.9 flowers/inflorescence average,,,Manual spray,5.6 fruits/inflorescence average,81.8%,Inflorescence,BV3,Separate field area; n and raw counts NR.
+DEN-041,LIT-238,Controlled indoor servoing,320 stigma-touch trials,Mature flowers detected,Stigma pose estimated,320,Contact-confirmed success,94.45% at k=23; 99.68% at k=29,Stigma-touch trial,BV1,"Contact is deposition-process evidence, not fruit set."
+DEN-042,LIT-238,Controlled indoor fruit set — robot,5 groups; 5–18 flowers/group,,,Robot pollination,Fruit set,74.6% ± 10.7%,Group of flowers,BV3,Exact total flowers and group numerators not stated in text.
+DEN-043,LIT-238,Controlled indoor fruit set — manual,8 groups; flower total NR,,,Manual pollination,Fruit set,85.3% ± 22.2%,Group of flowers,BV3,p=0.3378 versus robot; no randomised allocation.
+DEN-044,LIT-238,Commercial greenhouse servoing,960 pollination experiments,85.1% flower detection on 128 plants,Stigma pose estimation,960,Contact-confirmed success,94.63% at k=23; 99.65% at k=29,Pollination experiment,BV1,System was tested in a commercial production greenhouse.
+DEN-045,LIT-238,Commercial greenhouse pollination rate,780 plants; 78 plants/row; n=5 manual and n=5 robot rows for rate comparison,Approx. 6.4–7.7 mature detected flowers/plant at a robot stop,"Mature, visible, stigma-exserted flowers",Robot versus manual rows,Pollination success,Robot 77.6% ±9.4%; manual 92.4% ±2.0%,Plant row,BV1,"No random row assignment; outcome is pollination success, not fruit set."
+DEN-046,LIT-238,GEAIR F1 hybrid proof of concept,Five male-parent cross combinations,,,Robotic crosses,F1 hybrids produced and phenotyped,Five combinations,Cross combination / F1 progeny,BV4,Confirms downstream biological success; exact fruit/seed denominator by cross not reported in the main text.
+DEN-047,LIT-221,Electrostatic autonomous drone (−12 kV),n=3 trees; exact clusters and flowers NR,YOLO RGB-D cluster detection,Detected clusters converted to 3D spray trajectories,One treated canopy side per tree,"Mean 8.3 flowers, 5.1 fruits and 1.2 good fruits per cluster",Fruit set 62.1%; good-fruit rate 13.8%,Flower cluster nested within tree,BV3,9.3 s/m; 10.0 mg pure pollen/m. Exact cluster count and total flower denominator not reported.
+DEN-048,LIT-221,Nonelectrostatic autonomous drone,n=2 completed trees; exact clusters and flowers NR,YOLO RGB-D cluster detection,Detected clusters converted to 3D spray trajectories,One tree lost because of flight obstruction,"Mean 7.6 flowers, 3.9 fruits and 0.7 good fruits per cluster",Fruit set 53.5%; good-fruit rate 8.7%,Flower cluster nested within tree,BV3,15.0 s/m; 18.4 mg pure pollen/m. Unbalanced replication.
+DEN-049,LIT-221,Manual Bonten brush,n=3 trees; exact clusters and flowers NR,,One flower per inflorescence manually treated,Manual,"Mean 8.0 flowers, 4.8 fruits and 1.8 good fruits per cluster",Fruit set 61.9%; good-fruit rate 22.5%,Flower cluster nested within tree,BV3,111.0 s/m; 16.0 mg pure pollen/m. Highest good-fruit rate.
+DEN-050,LIT-221,Natural open pollination,n=3 trees; exact clusters and flowers NR,,,No artificial treatment,"Mean 8.3 flowers, 4.5 fruits and 1.0 good fruits per cluster",Fruit set 53.6%; good-fruit rate 10.5%,Flower cluster nested within tree,BV3,Open-pollination reference; exact cluster count NR.
